@@ -29,15 +29,9 @@ e.g.
 == Changelog ==
  
 = 1.0.0 =
-* Creación muy simple de WSME by f20manuel
- 
-Here's a link to [WordPress](https://wordpress.org/ "Your favorite software") and one to [Markdown's Syntax Documentation][markdown syntax].
-Titles are optional, naturally.
- 
-[markdown syntax]: http://daringfireball.net/projects/markdown/syntax
-"Markdown is what the parser uses to process much of the readme file"
- 
-Markdown uses email style notation for blockquotes and I've been told:
-> Asterisks for *emphasis*. Double it up  for **strong**.
- 
-`<?php code(); // goes in backticks ?>`
+* Creación muy simple de WSME by f20manuel.
+
+" 1.0.1 =
+* Boton para reiniciar el formulario de configuración en el menu de administración
+* Ahora se abre el enlace de whatsapp en una ventana diferente.
+* Boton para donaciones
